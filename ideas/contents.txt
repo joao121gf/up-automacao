@@ -1,0 +1,24 @@
+pagina inicial
+sobre
+serviços/produtos
+portifólio
+tecnologias usadas
+notícias
+depoimentos de clientes
+contato
+faq perfuntas frequentes
+parcerias
+rodapé
+
+
+serviços:
+Obras industriais de elétrica e automação (projetos elétricos e automação,
+
+
+
+montagem de infra estrutura elétrica - CHECK
+montagem de quadros elétricos e de automação - CHECK
+cabeamento estruturado - CHECK
+treinamento de equipes de manutenção e operação - CHECK
+manutenção em máquinas e equipamentos - CHECK
+instrumentação - CHECK
